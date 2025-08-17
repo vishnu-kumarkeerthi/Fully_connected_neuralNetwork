@@ -1,4 +1,6 @@
 **Fully Connected Neural Network in Verilog – Module Overview**
+<img width="1459" height="725" alt="image" src="https://github.com/user-attachments/assets/a3317f85-f8fb-47d1-8872-bfec71ae9e7e" />
+
 
 Neuron Block
 
